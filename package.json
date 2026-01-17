@@ -1,0 +1,37 @@
+{
+  "name": "vue-ele-project",
+  "version": "1.0.0",
+  "description": "vue-ele-project",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --open"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "echarts": "^4.2.0-rc.2",
+    "element-ui": "^2.3.2",
+    "http-proxy-middleware": "^0.18.0",
+    "js-md5": "^0.7.3",
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
+    "vue2-editor": "2.10.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
